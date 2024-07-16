@@ -1,3 +1,7 @@
+import numpy as np
+
+
+
 # List of numbers
 numbers = [3, 57, 89, 2, 56, 8, 2]
 
@@ -31,6 +35,6 @@ print(f"Average using statistics.mean(): {average_statistics}")
 
 
 # Average using numpy.average()
-import numpy as np
+
 average_numpy = np.average(numbers)
 print(f"Average using numpy.average(): {average_numpy}")
