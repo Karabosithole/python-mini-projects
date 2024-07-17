@@ -1,0 +1,1 @@
+"""Python Bytearray gives a mutable sequence of integers in the range 0 <= x < 256."""
